@@ -1,0 +1,117 @@
+
+body{margin:0px auto; 
+	padding:0px}
+#wrapper{width:1230px; 
+			height:auto;
+			background:white; 
+			padding:0px; 
+			margin:0px auto;}
+#box1{margin:0px 10px 5px 0px;
+		padding:0px; 
+		width:280px; 
+		height:580px;
+		background:white; 
+		float:left;
+		border:1px solid gray;}
+#box2{margin:0px 10px 5px 10px;
+		padding:0px; 
+		width:280px; 
+		height:580px;
+		background:white; 
+		float:left;
+		border:1px solid gray;}
+#box3{margin:0px 10px 5px 10px;
+		padding:0px; 
+		width:280px; 
+		height:580px;
+		background:white; 
+		float:left;
+		border:1px solid gray;}	
+#box4{margin:0px 0px 5px 10px;
+		padding:0px; 
+		width:280px; 
+		height:580px;
+		background:white; 
+		float:left;
+		border:1px solid gray;}	
+#box5{margin:0px 10px 5px 0px;
+		padding:0px; 
+		width:280px; 
+		height:580px;
+		background:white; 
+		float:left;
+		border:1px solid gray;}	
+#box6{margin:0px 10px 5px 10px;
+		padding:0px; 
+		width:280px; 
+		height:580px;
+		background:white; 
+		float:left;
+		border:1px solid gray;}	
+#box7{margin:0px 10px 5px 10px;
+		padding:0px; 
+		width:280px; 
+		height:580px;
+		background:white; 
+		float:left;
+		border:1px solid gray;}	
+#box8{margin:0px 0px 5px 10px;
+		padding:0px; 
+		width:280px; 
+		height:580px;
+		background:white; 
+		float:left;
+		border:1px solid gray;}			
+		
+.upper_lower{width:1230px; 
+			height:580px;
+			background:white; 
+			padding:0px; 
+			margin:40px auto;}
+.image{padding:0px;
+		width:280px;
+		height:140px;
+		margin:0px;}
+.mid_foot{padding:0px;
+			width:280px;
+			height:150px;
+			margin:10px;}
+.link_box{padding:0px;
+			width:260px; 
+			height:20px;
+			margin:0px ;
+			background:white;}
+.link_box img{ height:15px;
+				width:15px;
+				margin:0px 0px -9px 0px;}
+.image img{width:280px;
+			height:140px;}
+h2{font-size:15px;
+	line-height:5px; 
+	float:right;}
+h1{font-size:20px;}
+.p1{ font-size:15px; 
+		font-family:times new roman;
+		color:gray;
+		margin:50px 0px 0px 0px;}
+.p2{ font-size:15px;
+		font-family:times new roman;
+		font-style: italic;}
+hr{  display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-style: inset;
+    border-width: 1px;
+	width:92%;
+	}
+
+
+a{ text-decoration:none;
+	color:#298CCF}
+	
+	
+a:hover{text-decoration:underline;
+		 color:#298CCF;}
+
